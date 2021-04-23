@@ -6,6 +6,8 @@
 
  Etapa 2 - Análise e específicação de requisitos
 
+ Etapa 3 - Relatórios de Gestão
+
 ```
   mkdir
   ```
