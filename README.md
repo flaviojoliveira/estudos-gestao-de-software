@@ -9,6 +9,6 @@
  Etapa 3 - Relatórios de Gestão
 
 ```
-  mkdir
+  mkdir . files
   ```
 
