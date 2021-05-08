@@ -10,5 +10,7 @@
 
 ```
   mkdir . files
+
+  relatório
   ```
 
