@@ -8,11 +8,11 @@
 
  Etapa 3 - Relatórios de Gestão
 
+ Etapa 4 - Monitoramento
+
+ Etapa 5 - Encerramento (Qualidade)
+
 ```
-  mkdir . files
-
-  relatório
-
-  arquivo leiame.txt
-  ```
+mkdir nomediretõrio
+```
 
